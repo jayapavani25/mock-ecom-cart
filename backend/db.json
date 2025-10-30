@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Headphones",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "name": "Keyboard",
+      "price": 800
+    },
+    {
+      "id": 3,
+      "name": "Mouse",
+      "price": 500
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "price": 7000
+    },
+    {
+      "id": 5,
+      "name": "Webcam",
+      "price": 2000
+    }
+  ],
+  "cart": []
+}
